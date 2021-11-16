@@ -1,4 +1,4 @@
-from tda_cola import Cola
+from TDA_cola import Cola
 
 
 class Arbol(object):
